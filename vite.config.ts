@@ -5,6 +5,6 @@ import { defineConfig } from 'vite'
 // yayınlanacaksa base'i "/<repo-adi>/" olarak değiştirin.
 // Kendi domain'inizi kullanacaksanız (veya user/org sayfasıysa: <kullanici>.github.io) '/' bırakın.
 export default defineConfig({
-  base: '/ali-buyukuyar.github.io/',
+  base: '/FastSoftware/',
   plugins: [react()],
 })
